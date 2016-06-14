@@ -1083,7 +1083,9 @@ var rules = [
   "anti.anti.cnn.googlepages.com",
   "||freegateget.googlepages.com",
   "myboooks.googlepages.com",
-  "fonts.googleapis.com"
+  "fonts.googleapis.com",
+  "||fonts.googleapis.com",
+  "|https://codex.wordpress.org/",
   ".googlevideo.com",
   "gospelherald.com",
   "||gospelherald.com",
